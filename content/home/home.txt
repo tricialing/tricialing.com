@@ -1,0 +1,10 @@
+Title: tricialing
+----
+
+Text: 
+I like design.
+I enjoy coding. 
+I <3 the internet.
+
+
+**You can find me on (link: http://twitter.com/tricialing popup: yes text: twitter), (link: http://instagram.com/tricialing popup: yes text: instagram) & (link: http://github.com/tricialing popup: yes text: Github). You can also (email: hey@tricialing.com text: drop me a note title: hello from your site.).**

@@ -1,0 +1,16 @@
+Title: Tricia Ling
+----
+
+Author: tricia Ling
+
+----
+
+Description: This is Tricia Ling's site
+
+----
+
+Keywords: Kirby, CMS, file-based
+
+----
+
+Copyright: © (date: Year), (link: http://tricialing.com text: tricialing)

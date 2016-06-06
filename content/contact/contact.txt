@@ -1,0 +1,12 @@
+Title: Contact
+
+----
+
+Text: 
+
+## Get in touch
+
+- (link: http://twitter.com/tricialing text: tricialing on Twitter)
+- (link: http://forum.getkirby.com text: tricialing on Instagram)
+- (link: http://github.com/tricialing text: tricialing on Github)
+- email me at <hey@tricialing.com>
