@@ -7,8 +7,8 @@ This time using:
 - CMR: Kirby
 - CSS Framework: Tachyon <http://tachyons.io/>
 - Issue tracking: Waffle.io<Waffle.io>
-~ - Version Control: No GUI, command line only. ~
-~ - Deployment: deplyHQ <https://www.deployhq.com/> ~
-
+- Version Control: ~~No GUI, command line only.~~ Github desktop
+- Deployment: ~~deplyHQ <https://www.deployhq.com/>~~ SFTP
+- hosting: Webfaction
 
 Wish me luck. :)
